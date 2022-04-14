@@ -1,7 +1,7 @@
 {
     "updates": {
         "linux": {
-        "open-ur1": "",
+        "open-url": "",
         "latest-version": "0.0.1",
         "download-url": "https://github.com/ROSENty/update/tree/main/download/linux/testFile.txt",
         "changelog": ""
